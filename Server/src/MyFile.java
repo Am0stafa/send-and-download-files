@@ -1,11 +1,4 @@
-/**
- * id - the id of the object
- * name - the name of the file
- * data - the file data
- * fileExtension - the file extension
- *
- */
-
+// this is going to represent a file that we are going to send to the server.
 public class MyFile {
 
     private int id;
