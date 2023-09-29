@@ -16,7 +16,7 @@ This project is a Java-based file-sharing application that allows a client to se
 
 ### Client-Side:
 - The client-side interface provides options to choose and send a file to the server.
-- On clicking "Choose File", a file chooser dialog appears for file selection. The name of the selected file is displayed on the GUI.
+- On clicking "Choose File", a file chooser dialogue appears for file selection. The name of the selected file is displayed on the GUI.
 - On clicking "Send File", the application establishes a socket connection with the server and sends the file name and file data over the connection.
 
 ### Server-Side:
