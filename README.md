@@ -1,7 +1,7 @@
 # Send and download files
 
 
-This project is a Java-based file-sharing application that allows a client to send files to a server. The server can preview and choose to download these files. The application employs Java Swing for the graphical user interface and Java Sockets for network communication.
+This project is a Java-based file-sharing application that allows a client to send files to a server. The server can preview and choose to download these files. The application employs Java Swing for the graphical user interface and Java Sockets for network communication. One user can send to another user only
 
 ## Table of Contents
 1. [How It Works](#how-it-works)
